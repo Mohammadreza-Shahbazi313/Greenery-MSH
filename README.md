@@ -1,26 +1,33 @@
-# M.SH. – Greenery
+# 🌿 Greenery-MSH
 
-A simple HTML & CSS project customized by **M.SH. (MohammadReza Shahbazi)**.
-
-## Overview
-This is a personalized version of the *Greenery* template.  
-All credits, styles, and details have been refined and adjusted to match a clean and modern look under the name **M.SH. – Greenery**.
-
-## Project Structure
-
-
-## How to View
-1. Download or clone this repository.
-2. Open `index.html` in your browser to preview the site.
-
-## Next Steps
-- Improve layout and design sections step by step.
-- Add more structure and comments for clean commits.
-- Continue customization under **M.SH.** brand.
-
-## License
-Released under the **MIT License**.
+A clean, modern web project designed and coded by **Mohammadreza Shahbazi (M.SH)**.  
+This site blends **minimal dark aesthetics** with organized HTML structure — the foundation of a fully responsive design in progress.
 
 ---
 
-👤 **Author:** M.SH. (MohammadReza Shahbazi)
+## 🚀 Current Progress
+
+- ✅ **Index page** redesigned with dark, minimal layout  
+- ✅ **Menu page** personalized with M.SH branding  
+- 🔧 **In progress:** refining **CSS styles** and integrating **image assets**  
+- 🎯 **Next step:** unify design system & add responsive breakpoints  
+
+---
+
+## 💡 About the Project
+
+**Greenery-MSH** began as a static concept and is evolving into a personalized portfolio site.  
+The focus: **clarity, design consistency, and smooth user experience.**
+
+---
+
+## 👨‍💻 Author
+
+**Mohammadreza Shahbazi (M.SH)**  
+📧 [eminemengland2000@gmail.com](mailto:eminemengland2000@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammadreza-shahbazi-313sh/)  
+💬 [Telegram](https://t.me/STANsoSAD)
+
+---
+
+> _“Keep coding. Keep growing.”_ 💻🌿
