@@ -7,9 +7,13 @@ This site blends **minimal dark aesthetics** with organized HTML structure — t
 
 ## 🚀 Current Progress
 
-- ✅ **Index page** redesigned with dark, minimal layout  
+- ✅ **Index page** redesigned with dark, minimal layout
 - ✅ **Menu page** personalized with M.SH branding  
-- 🔧 **In progress:** refining **CSS styles** and integrating **image assets**  
+- ✅ HTML structure for **index** and **menu** pages completed  
+- ✅ Moved all inline CSS into external stylesheets for cleaner code  
+- 🔧 Working on **global styles** and shared visual components
+-  🔧 **In progress:** refining **CSS styles** and integrating **image assets**  
+- 🎯 Next step: finalize CSS structure and start responsive design  
 - 🎯 **Next step:** unify design system & add responsive breakpoints  
 
 ---
