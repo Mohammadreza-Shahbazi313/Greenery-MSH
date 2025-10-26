@@ -1,27 +1,34 @@
 # 🌿 Greenery-MSH
 
 A clean, modern web project designed and coded by **Mohammadreza Shahbazi (M.SH)**.  
-This site blends **minimal dark aesthetics** with organized HTML structure — the foundation of a fully responsive design in progress.
+This site blends **minimal dark aesthetics** with an organized HTML structure — forming the base of a responsive portfolio in progress.
 
 ---
 
 ## 🚀 Current Progress
 
-- ✅ **Index page** redesigned with dark, minimal layout
-- ✅ **Menu page** personalized with M.SH branding  
-- ✅ HTML structure for **index** and **menu** pages completed  
-- ✅ Moved all inline CSS into external stylesheets for cleaner code  
-- 🔧 Working on **global styles** and shared visual components
--  🔧 **In progress:** refining **CSS styles** and integrating **image assets**  
-- 🎯 Next step: finalize CSS structure and start responsive design  
-- 🎯 **Next step:** unify design system & add responsive breakpoints  
+- ✅ **Index page** redesigned with a dark, minimal layout  
+- ✅ **Menu page** customized with M.SH branding  
+- ✅ **Inline styles** moved into a unified external CSS file  
+- ✅ **Image assets** added to `/images` directory and integrated into layout  
+- 🔧 Currently improving **global CSS structure** for scalability  
+- 🎯 **Next step:** finalize responsive design and polish typography  
+
+---
+
+## 💾 Recent Update
+
+The **latest update** focused on visual refinement and resource organization:  
+- Added and optimized all **image assets**  
+- Cleaned up HTML references to use consistent image paths  
+- Prepared base styles for shared components  
 
 ---
 
 ## 💡 About the Project
 
-**Greenery-MSH** began as a static concept and is evolving into a personalized portfolio site.  
-The focus: **clarity, design consistency, and smooth user experience.**
+**Greenery-MSH** began as a static layout concept and is evolving into a personalized, modern portfolio.  
+The focus: **clarity, consistency, and smooth user experience.**
 
 ---
 
