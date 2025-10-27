@@ -1,34 +1,36 @@
 # 🌿 Greenery-MSH
 
 A clean, modern web project designed and coded by **Mohammadreza Shahbazi (M.SH)**.  
-This site blends **minimal dark aesthetics** with an organized HTML structure — forming the base of a responsive portfolio in progress.
+This site blends **minimal dark aesthetics** with an organized HTML structure — serving as the foundation of a personal portfolio in progress.
 
 ---
 
 ## 🚀 Current Progress
 
-- ✅ **Index page** redesigned with a dark, minimal layout  
+- ✅ **Index page** designed with a clean, dark layout  
 - ✅ **Menu page** customized with M.SH branding  
-- ✅ **Inline styles** moved into a unified external CSS file  
-- ✅ **Image assets** added to `/images` directory and integrated into layout  
-- 🔧 Currently improving **global CSS structure** for scalability  
-- 🎯 **Next step:** finalize responsive design and polish typography  
+- ✅ All **inline styles** moved into a unified external CSS file for cleaner code  
+- ✅ **Image assets** added and linked properly in `/images` directory  
+- 🔧 Currently refining **CSS styles** for consistency and better structure  
+- 🎯 **Next step:** apply responsive design and finalize typography  
 
 ---
 
 ## 💾 Recent Update
 
-The **latest update** focused on visual refinement and resource organization:  
-- Added and optimized all **image assets**  
-- Cleaned up HTML references to use consistent image paths  
-- Prepared base styles for shared components  
+The latest project update focused on **code organization and cleanup**:
+
+- Consolidated inline CSS into an external stylesheet  
+- Improved project structure and directory organization  
+- Added optimized image files and connected them to HTML pages  
+- Enhanced overall readability and maintainability of the codebase  
 
 ---
 
 ## 💡 About the Project
 
-**Greenery-MSH** began as a static layout concept and is evolving into a personalized, modern portfolio.  
-The focus: **clarity, consistency, and smooth user experience.**
+**Greenery-MSH** began as a static concept and evolved into a modern, minimalist portfolio.  
+The focus is on **clarity, consistency, and a smooth user experience.**
 
 ---
 
