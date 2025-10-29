@@ -10,9 +10,7 @@ This site blends **minimal dark aesthetics** with an organized HTML structure �
 - ✅ **Index page** designed with a clean, dark layout  
 - ✅ **Menu page** customized with M.SH branding  
 - ✅ All **inline styles** moved into a unified external CSS file for cleaner code  
-- ✅ **Image assets** added and linked properly in `/images` directory  
-- 🔧 Currently refining **CSS styles** for consistency and better structure  
-- 🎯 **Next step:** apply responsive design and finalize typography  
+- ✅ **Image assets** added and linked properly in `/images` directory   
 
 ---
 
