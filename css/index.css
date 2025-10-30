@@ -1,45 +1,58 @@
+/* -------- GLOBAL STYLES -------- */
+/* Base setup: dark background, soft text color, and modern sans-serif font */
 body {
-  background-color: #1a1b26;
-  color: #c0caf5;
-  font-family: "Segoe UI", sans-serif;
-  margin: 0;
-  padding: 0;
+  background-color: #1a1b26; /* Deep dark navy-blue background for eye comfort */
+  color: #c0caf5; /* Soft light-blue text for readability on dark theme */
+  font-family: "Segoe UI", sans-serif; /* Clean and legible system font */
+  margin: 0; /* Remove default browser margin */
+  padding: 0; /* Remove default browser padding */
 }
 
+/* -------- HEADER -------- */
+/* Prominent top header with brand color and strong contrast */
 header {
-  background: #24283b;
-  padding: 20px;
-  text-align: center;
-  color: #7aa2f7;
-  font-size: 2em;
+  background: #24283b; /* Slightly lighter dark tone to differentiate header area */
+  padding: 20px; /* Comfortable spacing around title */
+  text-align: center; /* Center-align header content */
+  color: #7aa2f7; /* Vibrant blue accent for title */
+  font-size: 2em; /* Larger font size for emphasis */
 }
 
+/* -------- NAVIGATION BAR -------- */
+/* Simple horizontal navigation bar with bold, clean links */
 nav {
-  background: #16161e;
-  padding: 10px;
-  text-align: center;
+  background: #16161e; /* Darker shade to visually separate nav from header */
+  padding: 10px; /* Vertical spacing inside nav bar */
+  text-align: center; /* Center the navigation links */
 }
 
+/* -------- NAVIGATION LINKS -------- */
+/* Primary navigation styling with hover accent for interactivity */
 nav a {
-  color: #9ece6a;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
+  color: #9ece6a; /* Soft green for calm visual contrast */
+  margin: 0 15px; /* Space between each navigation item */
+  text-decoration: none; /* Remove default underline */
+  font-weight: bold; /* Make links appear strong and visible */
 }
 
+/* Hover effect: subtle purple tone for visual feedback */
 nav a:hover {
-  color: #bb9af7;
+  color: #bb9af7; /* Smooth transition from green to light purple on hover */
 }
 
+/* -------- MAIN SECTIONS -------- */
+/* Centered content area with ample padding for readability */
 section {
-  padding: 40px;
-  text-align: center;
+  padding: 40px; /* Balanced spacing around content */
+  text-align: center; /* Align text and elements centrally */
 }
 
+/* -------- FOOTER -------- */
+/* Simple footer with muted text tone to avoid distraction */
 footer {
-  background: #24283b;
-  color: #565f89;
-  text-align: center;
-  padding: 15px;
-  margin-top: 40px;
+  background: #24283b; /* Matches header for visual consistency */
+  color: #565f89; /* Muted gray-blue text for subtle contrast */
+  text-align: center; /* Center-align footer content */
+  padding: 15px; /* Comfortable inner spacing */
+  margin-top: 40px; /* Space above footer separating it from content */
 }
