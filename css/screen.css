@@ -1,24 +1,19 @@
- /* Customized and restructured by M.SH. (MohammadReza Shahbazi)  */
-
- /* ORIGINAL DESIGN by Pat Heard { fullahead.org }  */
-
-
-
-/***************************************************
-   HTML Element Styles
- ***************************************************/
-
+/* ================================
+   Base Typography and Body Styles
+   ================================ */
 body {
   margin: 0;  
   text-align: center;
-  font: 0.62em verdana, arial, sans-serif;  
+  font: 0.62em verdana, arial, sans-serif;  /* Base font scaling for readability */
   line-height: 170%;
   color: #EEE;
   background: #585858 url(../images/bg_body.jpg) repeat-y top center;
-  background-color: #4c9a2a !important;
-
+  background-color: #4c9a2a !important; /* Force green tone background */
 }
 
+/* ================================
+   Paragraph and Text Spacing
+   ================================ */
 p { 
   padding-top: 10px !important;
   padding-top: 3px;
@@ -26,44 +21,42 @@ p {
   padding-bottom: 3px;
 }
 
-
+/* ================================
+   Link Styling
+   ================================ */
 a {
-  color: #86E160;
+  color: #86E160; /* Bright green for links */
 }
 
 a:visited {
-  color: #AAA;
+  color: #AAA; /* Muted color for visited links */
 }
 
 a:hover {
-  color: #FFF;
+  color: #FFF; /* Highlighted white on hover */
 }
 
+/* ================================
+   Acronym Styling (Tooltip underline)
+   ================================ */
 acronym {
   cursor: help;
   border-bottom: 1px solid #777;
 }
 
+/* ================================
+   Form Elements
+   ================================ */
 input {
   width: 70%;
 }
 
 textarea {
   width: 98%;
-  /* 
-    IE specific to eliminate scroll bar when not needed. 
-    Uncomment if wanted, but it is not valid CSS
-     
-  scrollbar-3dlight-color : #777;
-  scrollbar-arrow-color : #EEE;
-  scrollbar-darkshadow-color : #777;
-  scrollbar-face-color : #777;
-  scrollbar-highlight-color : #777;
-  scrollbar-shadow-color : #777;
-  scrollbar-track-color : #777;    
-  */
+  /* IE-specific scrollbar styling (commented, non-standard) */
 }
 
+/* Shared input + textarea styling */
 input,
 textarea {
   padding: 1px 3px;
@@ -74,6 +67,7 @@ textarea {
   border: 1px solid #999;
 }
 
+/* Hover and focus state for form fields */
 input:hover,
 input:focus,
 textarea:hover,
@@ -83,22 +77,26 @@ textarea:focus {
   border: 1px solid #EEE;
 }
 
-
+/* ================================
+   Headings
+   ================================ */
 h1 {
   clear: both;
   margin: 10px 0;
   font: 700 1em verdana, sans-serif;
   text-transform: uppercase;
-  color: #7BD32C;
+  color: #7BD32C; /* Bright lime green heading */
   background: #686868 url(../images/rounded_tr.gif) no-repeat top right;
 }
 
+/* Rounded corner background for h1 */
 h1 span {
   display: block;
   padding: 2px;
   background: url(../images/rounded_br.gif) no-repeat bottom right;
 }
 
+/* Sidebar-specific heading variant */
 #sideBar h1 {
   text-align: right;
   background: #686868 url(../images/rounded_tl.gif) no-repeat top left;
@@ -110,9 +108,11 @@ h1 span {
   background: url(../images/rounded_bl.gif) no-repeat bottom left;
 }
 
-
+/* ================================
+   Ordered and Unordered Lists
+   ================================ */
 #content ol li { 
-  color: #9BE4FF;
+  color: #9BE4FF; /* Blue tone for list numbers */
 }
 
 #content ol li span {
@@ -124,9 +124,12 @@ h1 span {
 }
 
 #content ul li {
-  list-style-image: url(../images/li_bullet.gif);
+  list-style-image: url(../images/li_bullet.gif); /* Custom bullet image */
 }
 
+/* ================================
+   Blockquotes
+   ================================ */
 blockquote {  
   margin: 0;
   background: #686868 url(../images/rounded_tr.gif) no-repeat top right;
@@ -141,8 +144,6 @@ blockquote span {
 /***************************************************
   Layout Element Styles
  ***************************************************/
-
-
 #header {  
   width: 100%;
   height: 3em;
@@ -152,7 +153,6 @@ blockquote span {
 /***************************************************
   Header Menu
  ***************************************************/
-
 #menu {
   width: 767px;
   margin: 0 auto;
@@ -189,11 +189,9 @@ blockquote span {
   background: url(../images/menu_tab.gif) no-repeat bottom center;
 }
 
-
 /***************************************************
   Site Title
  ***************************************************/
-
 #title {
   padding: 0.6em 55px 0.6em 0;
   margin-right: 0.5em;
@@ -208,7 +206,6 @@ blockquote span {
   background-image: none;
 }
 
-
 /***************************************************
  Page Content
  ---------------------------------------------------
@@ -216,8 +213,6 @@ blockquote span {
  2. Dropdown image
  3. Right side bar 
  ***************************************************/
-
-
 #content {  
   clear: both;
   width: 767px;
@@ -247,11 +242,9 @@ blockquote span {
   padding: 20px 15px 20px 0;
 }
 
-
 /***************************************************
  Sidemenu Styles
  ***************************************************/
-
 .sideMenu {
   padding: 10px 0;
 }
@@ -279,7 +272,6 @@ blockquote span {
 /***************************************************
  Comment Styles
  ***************************************************/
-
 #comments p {
   padding: 0 5px;
   margin-bottom: 0;
@@ -312,7 +304,6 @@ blockquote span {
 /***************************************************
  Footer
  ***************************************************/
-
 #footer {
   clear: both;
   float: left;
@@ -346,11 +337,9 @@ a:hover.fullAhead  {
   background-position: -30px 0;
 }
 
-
 /***************************************************
  Generic Display Classes
  ***************************************************/
-
 .center {
   text-align: center;
 }
