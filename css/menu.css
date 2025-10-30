@@ -1,45 +1,56 @@
 body {
-  background-color: #1a1b26;
-  color: #c0caf5;
-  font-family: "Segoe UI", sans-serif;
-  margin: 0;
-  padding: 0;
+  background-color: #1a1b26; /* Deep midnight background for low-eye strain */
+  color: #c0caf5; /* Soft blue-white text for strong legibility */
+  font-family: "Segoe UI", sans-serif; /* Clean, modern sans-serif system font */
+  margin: 0; /* Remove default outer spacing */
+  padding: 0; /* Remove default inner spacing */
 }
 
+/* ---------- HEADER SECTION ---------- */
+/* Primary site header with distinct accent and visual hierarchy. */
 header {
-  background: #24283b;
-  padding: 20px;
-  text-align: center;
-  color: #7aa2f7;
-  font-size: 2em;
+  background: #24283b; /* Slightly lighter tone for visual separation */
+  padding: 20px; /* Balanced vertical rhythm */
+  text-align: center; /* Centers logo/title horizontally */
+  color: #7aa2f7; /* Vibrant blue accent for header text */
+  font-size: 2em; /* Large typography for brand emphasis */
 }
 
+/* ---------- NAVIGATION BAR ---------- */
+/* Minimal horizontal navigation area with centered layout. */
 nav {
-  background: #16161e;
-  padding: 10px;
-  text-align: center;
+  background: #16161e; /* Deep contrast to highlight navigation zone */
+  padding: 10px; /* Compact inner spacing */
+  text-align: center; /* Horizontally centers all nav links */
 }
 
+/* ---------- NAVIGATION LINKS ---------- */
+/* Defines base link appearance and spacing between items. */
 nav a {
-  color: #9ece6a;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
+  color: #9ece6a; /* Calm green accent for natural contrast */
+  margin: 0 15px; /* Even horizontal spacing */
+  text-decoration: none; /* Removes underline for cleaner visual */
+  font-weight: bold; /* Increases link visibility and weight */
 }
 
+/* Hover state with subtle color shift for interactivity feedback. */
 nav a:hover {
-  color: #bb9af7;
+  color: #bb9af7; /* Soft purple highlight on hover */
 }
 
+/* ---------- CONTENT SECTIONS ---------- */
+/* Centralized layout with generous padding for balance and focus. */
 section {
-  padding: 40px;
-  text-align: center;
+  padding: 40px; /* Spacious inner area for content */
+  text-align: center; /* Centers text and block elements */
 }
 
+/* ---------- FOOTER SECTION ---------- */
+/* Creates a cohesive footer with subdued tone and separation margin. */
 footer {
-  background: #24283b;
-  color: #565f89;
-  text-align: center;
-  padding: 15px;
-  margin-top: 40px;
+  background: #24283b; /* Same tone as header for visual harmony */
+  color: #565f89; /* Muted gray-blue for secondary text */
+  text-align: center; /* Centered layout for footer elements */
+  padding: 15px; /* Adequate spacing for readability */
+  margin-top: 40px; /* Top gap separating footer from content */
 }
