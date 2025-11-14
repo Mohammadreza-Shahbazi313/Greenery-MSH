@@ -34,6 +34,7 @@ nav a {
 }
 
 /* Hover state with subtle color shift for interactivity feedback. */
+
 nav a:hover {
   color: #bb9af7; /* Soft purple highlight on hover */
 }
