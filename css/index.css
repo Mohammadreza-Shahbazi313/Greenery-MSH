@@ -12,6 +12,7 @@ body {
 
 /* -------- HEADER -------- */
 /* Prominent top header with brand color and strong contrast */
+
 header {
   background: #24283b; /* Slightly lighter dark tone to differentiate header area */
   padding: 20px; /* Comfortable spacing around title */
