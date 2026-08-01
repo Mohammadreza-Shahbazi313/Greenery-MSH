@@ -42,5 +42,4 @@ The focus is on **clarity, consistency, and a smooth user experience.**
 ---
 
 > _“Keep coding. Keep growing.”_ 💻🌿
-> 
 
